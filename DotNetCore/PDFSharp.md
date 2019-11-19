@@ -22,4 +22,5 @@ NuGetにはないが、
 IFontResolver を実装すれば、日本語も扱える。
 
 こちらは、System.Drawing.Common.dll に依存していない。
-代わりに、[SixLabors.Core](https://github.com/SixLabors/Core) を利用。
+代わりに、[SixLabors.Core](https://github.com/SixLabors/Core) を利用している。
+
