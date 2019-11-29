@@ -1,7 +1,7 @@
 # TIL
 Today I Learned
 
-今日学んだことをメモしています。忘れていてまた調べたものなども含んでいます。
+今日学んだことをメモしています。忘れていて再度調べたものなども含んでいます。
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ Today I Learned
 
 - [ApiVersionAttribute属性](ASP.NETCore/ApiVersionAttribute.md)
 - [JWT対応](ASP.NETCore/JWT対応.md)
-- [PotmannでCould_not_get_any_response.md](ASP.NETCore/PotmannでCould_not_get_any_response.md)
+- [PostmanでCould_not_get_any_response.md](ASP.NETCore/PostmanでCould_not_get_any_response.md)
 - [Swaggerが使えない.md](ASP.NETCore/Swaggerが使えない.md)
 
 <a id="asp-net-mvc"></a>
