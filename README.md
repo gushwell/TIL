@@ -28,10 +28,10 @@ Today I Learned
 <a id="asp-net-core"></a>
 ### ASP.NET Core
 
-- [ApiVersionAttribute属性](ASP.NET_Core/ApiVersionAttribute.md)
-- [JWT対応](ASP.NET_Core/JWT対応.md)
-- [PotmannでCould_not_get_any_response.md](ASP.NET_Core/PotmannでCould_not_get_any_response.md)
-- [Swaggerが使えない.md](ASP.NET_Core/Swaggerが使えない.md)
+- [ApiVersionAttribute属性](ASP.NETCore/ApiVersionAttribute.md)
+- [JWT対応](ASP.NETCore/JWT対応.md)
+- [PotmannでCould_not_get_any_response.md](ASP.NETCore/PotmannでCould_not_get_any_response.md)
+- [Swaggerが使えない.md](ASP.NETCore/Swaggerが使えない.md)
 
 <a id="asp-net-mvc"></a>
 ### ASP.NET MVC
