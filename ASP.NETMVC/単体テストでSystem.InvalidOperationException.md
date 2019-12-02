@@ -26,3 +26,4 @@ Windowsの機能の有効かまたは無効化で、HTTPアクティブ化にチ
 
 
 ![](../images/windowsの機能の有効化.jpg)
+![](../images/Windowsの機能の有効化.jpg)
