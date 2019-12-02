@@ -25,5 +25,4 @@ nativerd.dll は %windir%\system32\inetsrv 内に配置しなければなりま�
 Windowsの機能の有効かまたは無効化で、HTTPアクティブ化にチェックを入れる。
 
 
-![](../images/windowsの機能の有効化.jpg)
 ![](../images/Windowsの機能の有効化.jpg)
