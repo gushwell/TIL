@@ -43,6 +43,10 @@ Today I Learned
 <a id="dotnet-core"></a>
 ### .NET Core
 
+- [.NET Coreで PDFSharpを使う](DotNetCore/PDFSharp.md)
+- [String.Substringの不満.md](DotNetCore/Substringの不満.md)
+
+
 <a id="ef-core"></a>
 ### Entity Framework Core
 
