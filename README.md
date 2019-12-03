@@ -36,6 +36,10 @@ Today I Learned
 <a id="asp-net-mvc"></a>
 ### ASP.NET MVC
 
+- [セッションステートに使われるDBの接続文字列](ASP.NETMVC/セッションステートに使われるDBの接続文字列.md)
+- [単体テストでSystem.InvalidOperationException例外発生](ASP.NETMVC/単体テストでSystem.InvalidOperationException.md)
+
+
 <a id="dotnet-core"></a>
 ### .NET Core
 
