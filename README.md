@@ -50,6 +50,11 @@ Today I Learned
 <a id="ef-core"></a>
 ### Entity Framework Core
 
+- [InMemoryDatabaseは、Keyを自動インクリメントしない](EntityFrameworkCore/InMemoryDatabaseは、Keyを自動インクリメントしない.md)
+- [PostgrSQLで RowVersion と同等のものを使う](EntityFrameworkCore/PostgreSQLでConcurrencyToken.md)
+- [テーブル名、カラム名をsnake case に変更する](EntityFrameworkCore/PostgreSQLでsnakecase.md)
+- [PostgreSQL のインストール](EntityFrameworkCore/PostgreSQLインストール.md)
+
 <a id="iis"></a>
 ### IIS
 
