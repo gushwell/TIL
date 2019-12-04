@@ -31,7 +31,8 @@ Today I Learned
 - [ApiVersionAttribute属性](ASP.NETCore/ApiVersionAttribute.md)
 - [JWT対応](ASP.NETCore/JWT対応.md)
 - [PostmanでCould_not_get_any_response.md](ASP.NETCore/PostmanでCould_not_get_any_response.md)
-- [Swaggerが使えない.md](ASP.NETCore/Swaggerが使えない.md)
+- [Swaggerが使えない](ASP.NETCore/Swaggerが使えない.md)
+- [URLを小文字にするには](ASP.NETCore/URLを小文字にする.md)
 
 <a id="asp-net-mvc"></a>
 ### ASP.NET MVC
@@ -45,7 +46,6 @@ Today I Learned
 
 - [.NET Coreで PDFSharpを使う](DotNetCore/PDFSharp.md)
 - [String.Substringの不満.md](DotNetCore/Substringの不満.md)
-
 
 <a id="ef-core"></a>
 ### Entity Framework Core
