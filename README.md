@@ -73,13 +73,19 @@ Today I Learned
 <a id="git"></a>
 ### Git / GitHub / GitLab
 
+- [GitLab の通知をChromeで受け取る方法](git/GitLab の通知をChromeで受け取る方法.md)
+
 <a id="python"></a>
 ### Python
 
 <a id="docker"></a>
 ### Docker
 
+- [Git メモ](git/gitメモ.md)
 - [Docker for Windowsのインストール](Docker/Docker_for_Windowsのインストール.md)
+- [TortoiseGit で別のマージツールを使いたい](git/TortoiseGit で別のマージツールを使いたい.md)
+- [VS2019でC#のリポジトリをGitHubに新規作成する](git/VS2019でC#のリポジトリをGitHubに新規作成する.md)
+- [GitLabで緊急でバグ修正した内容をmasterとdevelopブランチに反映させたい場合の手順](git/緊急でバグ修正した内容をmasterとdevelopブランチに反映させたい.md)
 
 <a id="tools"></a>
 ### Tools
