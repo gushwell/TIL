@@ -76,7 +76,7 @@ Today I Learned
 - [Git メモ](git/gitメモ.md)
 - [GitLabの通知をChromeで受け取る方法](git/GitLabの通知をChromeで受け取る方法.md)
 - [TortoiseGitで別のマージツールを使いたい](git/TortoiseGitで別のマージツールを使いたい.md)
-- [VS2019でC#のリポジトリをGitHubに新規作成する](git/VS2019でC#のリポジトリをGitHubに新規作成する.md)
+- [VS2019でC#のリポジトリをGitHubに新規作成する](git/VS2019でリポジトリをGitHubに新規作成する.md)
 - [GitLabで緊急でバグ修正した内容をmasterとdevelopブランチに反映させたい場合の手順](git/緊急でバグ修正した内容をmasterとdevelopブランチに反映させたい.md)
 
 <a id="python"></a>
