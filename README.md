@@ -58,11 +58,17 @@ Today I Learned
 <a id="iis"></a>
 ### IIS
 
+- [IISで http を https にリダイレクトするには](IIS/httpsにリダイレクトする.md)
+
 <a id="sqlserver"></a>
 ### SQL Server
 
+- [SQL Serverの認証モードを変更するには](SQLServer/認証モードを変更する.md)
+
 <a id="vscode"></a>
 ### Visual Studio Code
+
+- [gitbashでAzureのazコマンドを使う時のメモ](VSCode/gitbashでazコマンド.md)
 
 <a id="git"></a>
 ### Git / GitHub / GitLab
