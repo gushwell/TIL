@@ -90,6 +90,8 @@ Today I Learned
 <a id="python"></a>
 ### Python
 
+- [pythonのインストールからpandas,matplotlib をインストールするまで](python/python_pandas_matplotlibをインストールするまで.md)
+
 <a id="docker"></a>
 ### Docker
 
