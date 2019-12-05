@@ -108,3 +108,5 @@ Today I Learned
 <a id="other"></a>
 ### other
 
+- [CIDR 表記とは](other/CIDR.md)
+- [OpenJDK 11.0.2 をインストールする場合の手順](other/OpenJDK11のインストール.md)
