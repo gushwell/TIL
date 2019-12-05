@@ -1,4 +1,4 @@
-# Azureで、Ubuntu VMを作成する際の前準備
+# Azureで、Ubuntu VMを作成する際のメモ
 
 Linux VMを作成する際は、SSHキーが必要になる。
 
