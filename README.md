@@ -1,5 +1,5 @@
 # TIL
-Today I Learned
+Today I Learned by gushwell
 
 今日学んだことをメモしています。忘れていて再度調べたものなども含んでいます。
 
