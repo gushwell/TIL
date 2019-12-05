@@ -75,6 +75,7 @@ Today I Learned
 ### Microsoft Azure
 
 - [CLIでサブスクリプションを切り替える](Azure/CLIでサブスクリプションを切り替える.md)
+- [ubuntuのVMを作成する際のメモ](Azure/ubuntuのVMを作成する際のメモ.md)
 
 
 <a id="git"></a>
