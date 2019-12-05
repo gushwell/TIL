@@ -1,5 +1,4 @@
-# TIL
-Today I Learned by gushwell
+# TIL: Today I Learned by gushwell
 
 GitHub Pages https://gushwell.github.io/TIL/
 
