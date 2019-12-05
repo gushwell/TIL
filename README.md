@@ -74,7 +74,7 @@ Today I Learned
 <a id="azure"></a>
 ### Microsoft Azure
 
-- [CLIでサブスクリプションを切り替える](azure/CLIでサブスクリプションを切り替える.md)
+- [CLIでサブスクリプションを切り替える](Azure/CLIでサブスクリプションを切り替える.md)
 
 
 <a id="git"></a>
