@@ -100,6 +100,8 @@ Today I Learned
 <a id="tools"></a>
 ### Tools
 
+- [Windows10のOpenSSH で接続する](tools/Windows10のOpenSSHを使う.md)
+
 <a id="gmopayment"></a>
 ### GmoPayment
 
