@@ -14,6 +14,7 @@ Today I Learned
   - [IIS](#iis)
   - [SQL Server](#sqlserver)
   - [Visual Studio Code](#vscode)
+  - [Microsoft Azure](#azure)
   - [Git/GitHub/GitLab](#git)
   - [python](#python)
   - [Docker](#docker)
@@ -69,6 +70,12 @@ Today I Learned
 ### Visual Studio Code
 
 - [gitbashでAzureのazコマンドを使う時のメモ](VSCode/gitbashでazコマンド.md)
+
+<a id="azure"></a>
+### Microsoft Azure
+
+- [CLIでサブスクリプションを切り替える](azure/CLIでサブスクリプションを切り替える.md)
+
 
 <a id="git"></a>
 ### Git / GitHub / GitLab
