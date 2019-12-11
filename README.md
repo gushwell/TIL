@@ -92,7 +92,7 @@ GitHub Pages https://gushwell.github.io/TIL/
 <a id="python"></a>
 ### Python
 
-- [Macでpipenv --python 3.6 で失敗した時のメモ](python/Macでpipenv --python 3.6 で失敗した時のメモ.md)
+- [Macでpipenv --python 3.6 で失敗した時のメモ](python/Macでpipenv_python 3.6 で失敗した時のメモ.md)
 - [macでanacondaを完全削除のメモ](python/macでanacondaを完全削除のメモ.md)
 - [pythonのインストールからpandas,matplotlib をインストールするまで](python/python_pandas_matplotlibをインストールするまで.md)
 
