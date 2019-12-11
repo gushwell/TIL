@@ -95,6 +95,8 @@ GitHub Pages https://gushwell.github.io/TIL/
 - [Macでpipenv --python 3.6 で失敗した時のメモ](python/Macでpipenv_python_3.6で失敗した時のメモ.md)
 - [macでanacondaを完全削除のメモ](python/macでanacondaを完全削除のメモ.md)
 - [pythonのインストールからpandas,matplotlib をインストールするまで](python/python_pandas_matplotlibをインストールするまで.md)
+- [pyenvとpipenvのインストールのメモ.md](python/pyenvとpipenvのインストールのメモ.md)
+- [指定した文字種だけで組み立てられてた文字列かを調べる](python/指定した文字種だけで組み立てられてた文字列かを調べる.md)
 
 <a id="docker"></a>
 ### Docker
