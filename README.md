@@ -48,6 +48,7 @@ GitHub Pages https://gushwell.github.io/TIL/
 
 - [.NET Coreで PDFSharpを使う](DotNetCore/PDFSharp.md)
 - [String.Substringの不満.md](DotNetCore/Substringの不満.md)
+- [internalメソッドをテストする](DotNetCore/internalメソッドをテストする.md)
 
 <a id="ef-core"></a>
 ### Entity Framework Core
