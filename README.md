@@ -14,6 +14,7 @@ GitHub Pages https://gushwell.github.io/TIL/
   - [Entity Framework Core](#ef-core)
   - [IIS](#iis)
   - [SQL Server](#sqlserver)
+  - [Visual Studio](#vs)
   - [Visual Studio Code](#vscode)
   - [Microsoft Azure](#azure)
   - [Git/GitHub/GitLab](#git)
@@ -67,6 +68,11 @@ GitHub Pages https://gushwell.github.io/TIL/
 ### SQL Server
 
 - [SQL Serverの認証モードを変更するには](SQLServer/認証モードを変更する.md)
+
+<a id="vs"></a>
+### Visual Studio
+
+- [NugetパッケージのパッケージソースをComputerLevelで登録する](VisualStudio/NugetパッケージのパッケージソースをComputerLevelで登録する.md)
 
 <a id="vscode"></a>
 ### Visual Studio Code
