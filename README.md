@@ -74,6 +74,7 @@ GitHub Pages https://gushwell.github.io/TIL/
 
 - [NugetパッケージのパッケージソースをComputerLevelで登録する](VisualStudio/NugetパッケージのパッケージソースをComputerLevelで登録する.md)
 - [Studioの .editorconfig ファイルで書式を統一](VisualStudio/editorconfigファイルで書式を統一.md) 
+- [ファイルまたはアセンブリ 'System.Memory'またはその依存関係の 1 つが読み込めませんでした のエラー](VisualStudio/System.Memoryまたはその依存関係の1つが読み込めませんでした.md)
 
 <a id="vscode"></a>
 ### Visual Studio Code
