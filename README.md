@@ -1,8 +1,9 @@
 # TIL: Today I Learned by gushwell
 
-GitHub Pages https://gushwell.github.io/TIL/
-
 今日学んだことをメモしています。忘れていて再度調べたものなども含んでいます。
+
+Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.com/gushwell) もよろしく。
+
 
 ## Table of Contents
 
