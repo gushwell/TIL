@@ -124,10 +124,12 @@ GitHub Pages https://gushwell.github.io/TIL/
 
 - [GMOペイメントのテスト環境の APIのURL](GmoPayment/テスト環境.md)
 
+
 <a id="other"></a>
-### other
+### Other
 
 - [CIDR 表記とは](other/CIDR.md)
 - [OpenJDK 11.0.2 をインストールする場合の手順](other/OpenJDK11のインストール.md)
 - [WindowsサーバーにChromeをインストールする方法](other/WindowsServerにChromeをインストール.md)
 - [hostsファイルの変更が反映されない場合の対処](other/hostsファイルの変更が反映されない場合の対処.md)
+
