@@ -97,7 +97,7 @@ GitHub Pages https://gushwell.github.io/TIL/
 - [TortoiseGitで別のマージツールを使いたい](git/TortoiseGitで別のマージツールを使いたい.md)
 - [VS2019でC#のリポジトリをGitHubに新規作成する](git/VS2019でリポジトリをGitHubに新規作成する.md)
 - [GitLabで緊急でバグ修正した内容をmasterとdevelopブランチに反映させたい場合の手順](git/緊急でバグ修正した内容をmasterとdevelopブランチに反映させたい.md)
-
+- [Gitでユーザ名を指定してcloneする](git/Gitでユーザ名を指定してcloneする.md)
 <a id="python"></a>
 ### Python
 
