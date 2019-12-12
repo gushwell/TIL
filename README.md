@@ -63,6 +63,7 @@ GitHub Pages https://gushwell.github.io/TIL/
 ### IIS
 
 - [IISで http を https にリダイレクトするには](IIS/httpsにリダイレクトする.md)
+- [IISでただいまメンテナンス中ですを表示する](IIS/ただいまメンテナンス中ですを表示する.md)
 
 <a id="sqlserver"></a>
 ### SQL Server
