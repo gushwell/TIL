@@ -72,7 +72,7 @@ GitHub Pages https://gushwell.github.io/TIL/
 <a id="vs"></a>
 ### Visual Studio
 
-- [NugetパッケージのパッケージソースをComputerLevelで登録する](VisualStudio/NugetパッケージのパッケージソースをComputerLevelで登録する.md)
+- [NugetパッケージのパッケージソースをComputerLevelで登録する](VisualStudio/NugetパッケージのパッケージソースをComputerLevelで登録する.md)Visual - - [Studioの .editorconfig ファイルで書式を統一](VisualStudio/editorconfigファイルで書式を統一.md) 
 
 <a id="vscode"></a>
 ### Visual Studio Code
