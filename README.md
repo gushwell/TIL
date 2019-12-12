@@ -103,6 +103,7 @@ GitHub Pages https://gushwell.github.io/TIL/
 - [pythonのインストールからpandas,matplotlib をインストールするまで](python/python_pandas_matplotlibをインストールするまで.md)
 - [pyenvとpipenvのインストールのメモ.md](python/pyenvとpipenvのインストールのメモ.md)
 - [指定した文字種だけで組み立てられてた文字列かを調べる](python/指定した文字種だけで組み立てられてた文字列かを調べる.md)
+- [pipenvでmatplotlibをインストール](python/pipenvでmatplotlibをインストール.md)
 
 <a id="docker"></a>
 ### Docker
