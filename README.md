@@ -87,6 +87,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 <a id="azure"></a>
 ### Microsoft Azure
 
+- [Azure CLI のインストール.md](Azure/Azure_CLIのインストール.md)
 - [CLIでサブスクリプションを切り替える](Azure/CLIでサブスクリプションを切り替える.md)
 - [ubuntuのVMを作成する際のメモ](Azure/ubuntuのVMを作成する際のメモ.md)
 
