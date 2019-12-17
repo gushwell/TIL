@@ -43,7 +43,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 
 - [セッションステートに使われるDBの接続文字列](ASP.NETMVC/セッションステートに使われるDBの接続文字列.md)
 - [単体テストでSystem.InvalidOperationException例外発生](ASP.NETMVC/単体テストでSystem.InvalidOperationException.md)
-
+- [EmailAddressAttributeの検証が緩すぎる](ASP.NETMVC/EmailAddressAttributeの検証が緩すぎる.md)
 
 <a id="dotnet-core"></a>
 ### .NET Core
