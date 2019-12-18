@@ -20,6 +20,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
   - [Microsoft Azure](#azure)
   - [Git/GitHub/GitLab](#git)
   - [python](#python)
+  - [JavaScript](#js)
   - [Docker](#docker)
   - [tools](#tools)  
   - [GmoPayment](#gmopayment)
@@ -114,6 +115,11 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [pyenvとpipenvのインストールのメモ.md](python/pyenvとpipenvのインストールのメモ.md)
 - [指定した文字種だけで組み立てられてた文字列かを調べる](python/指定した文字種だけで組み立てられてた文字列かを調べる.md)
 - [pipenvでmatplotlibをインストール](python/pipenvでmatplotlibをインストール.md)
+
+<a id="js"></a>
+### JavaScript
+
+- [fetch_APIでJSONを受け取る](JavaScript/fetch_APIでJSONを受け取る.md)
 
 <a id="docker"></a>
 ### Docker
