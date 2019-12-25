@@ -8,7 +8,7 @@
    ```cs
    public void ConfigureServices(IServiceCollection services) {
         services.AddRazorPages(options => {
-            options.Conventions.AddPageRoute("/Matter/Index", "");
+            options.Conventions.AddPageRoute("/MySample/Index", "");
         }); 
     }      
    ```
