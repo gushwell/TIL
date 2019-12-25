@@ -84,7 +84,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [ファイルまたはアセンブリ 'System.Memory'またはその依存関係の 1 つが読み込めませんでした のエラー](VisualStudio/System.Memoryまたはその依存関係の1つが読み込めませんでした.md)
 - [NuGetパッケージをローカルネットワークに公開する](VisualStudio/NuGetパッケージをローカルネットワークに公開する.md)
 - [NugetパッケージのパッケージソースをComputerLevelで登録する](VisualStudio/NugetパッケージのパッケージソースをComputerLevelで登録する.md)
-- [JsonデータからC#のクラスを作成する](VisualStudio/JsonデータからC#のクラスを作成する.md)
+- [JsonデータからC#のクラスを作成する](VisualStudio/JsonデータからC%23のクラスを作成する.md)
 
 <a id="vscode"></a>
 ### Visual Studio Code
