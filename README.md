@@ -40,6 +40,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [URLを小文字にするには](ASP.NETCore/URLを小文字にする.md)
 - [クロスオリジン要求 (CORS) を有効にする](ASP.NETCore/クロスオリジン要求(CORS)を有効にする.md)
 - [Web APIでルーティング指定](ASP.NETCore/WebAPIでルーティング指定.md)
+- [debug時に修正したページ(cshtml)を反映させる](ASP.NETCore/debug時に修正ページを反映させる.md)
 
 <a id="asp-net-mvc"></a>
 ### ASP.NET MVC
