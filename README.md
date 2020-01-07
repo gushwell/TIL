@@ -108,6 +108,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [CLIでサブスクリプションを切り替える](Azure/CLIでサブスクリプションを切り替える.md)
 - [ubuntuのVMを作成する際のメモ](Azure/ubuntuのVMを作成する際のメモ.md)
 - [Azure Functions の API バージョニング](Azure/Azure_FunctionsのAPIバージョニング.md)
+- [Azure/HttpトリガーのURLにバージョン番号を付加する方法](Azure/HttpトリガーのURLにバージョン番号を付加する方法.md)
 
 
 <a id="git"></a>
