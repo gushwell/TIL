@@ -132,6 +132,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [pyenvとpipenvのインストールのメモ.md](python/pyenvとpipenvのインストールのメモ.md)
 - [指定した文字種だけで組み立てられてた文字列かを調べる](python/指定した文字種だけで組み立てられてた文字列かを調べる.md)
 - [pipenvでmatplotlibをインストール](python/pipenvでmatplotlibをインストール.md)
+- [Pandasで特定のカラムと取り除く](python/Pandasで特定のカラムと取り除く.md)
 
 
 <a id="js"></a>
