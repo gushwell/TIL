@@ -134,6 +134,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [pipenvでmatplotlibをインストール](python/pipenvでmatplotlibをインストール.md)
 - [Pandasで特定のカラムを取り除く](python/Pandasで特定のカラムを取り除く.md)
 - [Pandasでカテゴリ変数をダミー変数に変換する](python/Pandasでカテゴリ変数をダミー変数に変換する.md)
+- [Pandasで指定したカラムの値を変更する](python/Pandasで指定したカラムの値を変更する.md)
 
 
 <a id="js"></a>
