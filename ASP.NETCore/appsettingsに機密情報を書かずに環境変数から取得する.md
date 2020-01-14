@@ -29,3 +29,8 @@ appsettingsにはデバッグ時の情報を記述します。
 ```cs
 _constr = Configuration["ConnectionStrings:Movies"];
 ```
+
+## 注意事項
+
+プロジェクトのプロパティのデバッグページで、シークレット情報を含んだ環境変数を定義してはいけない。
+この情報は、Properties/launchSettings.json 内に書き込まれ、gitの管理対象となってしまう。
