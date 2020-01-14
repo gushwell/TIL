@@ -43,16 +43,32 @@
 なお、program.csで、 CreateDefaultBuilder を呼び出していることが前提。
 
 
-`env.IsDevelopment()` がfalse の場合にも、secrets.jsonを利用したいのならば、以下のように、AddUserSecretsメソッドを呼び出す。
+`env.IsDevelopment()` がfalse の場合にも、secrets.jsonを利用したいのならば、以下のようなコードを書く必要がある。
 
 ```cs
-    if (env.IsDevelopment())
-    {
+public Startup(IWebHostEnvironment env) {
+    var builder = new ConfigurationBuilder()
+        .SetBasePath(env.ContentRootPath)
+        .AddJsonFile("appsettings.json",
+                     optional: false,
+                     reloadOnChange: true)
+        .AddEnvironmentVariables();
+
+    if (env.IsDevelopment()) {
         ...
-    } 
-    else
-    {
-        builder.AddUserSecrets<Startup>();
     }
+    else { 
+        ...
+    }
+
+    builder.AddUserSecrets<Startup>();
+    Configuration = builder.Build();
+}
 ```    
-    
+
+デフォルトでは、開発環境時のみsecrets.jsonが利用される構成になっていることから、これは、運用環境での利用は推奨されていないのかもしれない。
+
+開発環境と運用環境とで同じシークレット情報を利用する場合は、appsettings.jsonにシークレット情報を保存しないようにするために、この機能が必要になりそう。
+GITのソース管理対象にはシークレット情報を入れない運用にするには、この機能が必要。
+
+運用時は、環境変数から取得。開発時は、secrets.jsonから取得。というスタイルが良いのか？
