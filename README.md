@@ -99,7 +99,8 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 ### Visual Studio Code
 
 - [gitbashでAzureのazコマンドを使う時のメモ](VSCode/gitbashでazコマンド.md)
-
+- [Pythonのflake8で特定エラーを除外する](VSCode/Pythonのflake8で特定エラーを除外する.md)
+- [Pythonのフォーマットで勝手に改行しないようにする](VSCode/Pythonのフォーマットで勝手に改行しないようにする.md)
 
 <a id="azure"></a>
 ### Microsoft Azure
