@@ -111,6 +111,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [Azure Functions の API バージョニング](Azure/Azure_FunctionsのAPIバージョニング.md)
 - [Azure/HttpトリガーのURLにバージョン番号を付加する方法](Azure/HttpトリガーのURLにバージョン番号を付加する方法.md)
 - [AzureFunctionsでJSONを返す](Azure/AzureFunctionsでJSONを返す.md)
+- [Azure App ServicesにPython(Flask)をデプロイする](Azure/Azure_AppServicesにPython(Flask)をデプロイする.md)
 
 
 <a id="git"></a>
