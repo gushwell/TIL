@@ -56,7 +56,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 ### .NET Core
 
 - [.NET Coreで PDFSharpを使う](DotNetCore/PDFSharp.md)
-- [String.Substringの不満.md](DotNetCore/Substringの不満.md)
+- [String.Substringの不満](DotNetCore/Substringの不満.md)
 - [internalメソッドをテストする](DotNetCore/internalメソッドをテストする.md)
 
 
@@ -105,7 +105,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 <a id="azure"></a>
 ### Microsoft Azure
 
-- [Azure CLI のインストール.md](Azure/Azure_CLIのインストール.md)
+- [Azure CLI のインストール](Azure/Azure_CLIのインストール.md)
 - [CLIでサブスクリプションを切り替える](Azure/CLIでサブスクリプションを切り替える.md)
 - [ubuntuのVMを作成する際のメモ](Azure/ubuntuのVMを作成する際のメモ.md)
 - [Azure Functions の API バージョニング](Azure/Azure_FunctionsのAPIバージョニング.md)
@@ -131,7 +131,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [Macでpipenv --python 3.6 で失敗した時のメモ](python/Macでpipenv_python_3.6で失敗した時のメモ.md)
 - [macでanacondaを完全削除のメモ](python/macでanacondaを完全削除のメモ.md)
 - [pythonのインストールからpandas,matplotlib をインストールするまで](python/python_pandas_matplotlibをインストールするまで.md)
-- [pyenvとpipenvのインストールのメモ.md](python/pyenvとpipenvのインストールのメモ.md)
+- [pyenvとpipenvのインストールのメモ](python/pyenvとpipenvのインストールのメモ.md)
 - [指定した文字種だけで組み立てられてた文字列かを調べる](python/指定した文字種だけで組み立てられてた文字列かを調べる.md)
 - [pipenvでmatplotlibをインストール](python/pipenvでmatplotlibをインストール.md)
 - [Pandasで特定のカラムを取り除く](python/Pandasで特定のカラムを取り除く.md)
