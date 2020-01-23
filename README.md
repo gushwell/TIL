@@ -93,7 +93,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [NuGetパッケージをローカルネットワークに公開する](VisualStudio/NuGetパッケージをローカルネットワークに公開する.md)
 - [NugetパッケージのパッケージソースをComputerLevelで登録する](VisualStudio/NugetパッケージのパッケージソースをComputerLevelで登録する.md)
 - [JsonデータからC#のクラスを作成する](VisualStudio/Jsonデータからクラスを作成する.md)
-
+- [xUnitとMoqを使う準備](VisualStudio/xUnitとMoqを使う準備.md)
 
 <a id="vscode"></a>
 ### Visual Studio Code
