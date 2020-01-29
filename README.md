@@ -124,6 +124,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [GitLabで緊急でバグ修正した内容をmasterとdevelopブランチに反映させたい場合の手順](git/緊急でバグ修正した内容をmasterとdevelopブランチに反映させたい.md)
 - [Gitでユーザ名を指定してcloneする](git/Gitでユーザ名を指定してcloneする.md)
 - [GitLabのCIでdotnet3.1のプロジェクトをビルドする](git/GitLabのCIでdotnet3.1を使う.md)
+- [Gitで改行コードが自動変換される](git/改行コードが自動変換される.md)
 
 <a id="python"></a>
 ### Python
