@@ -58,6 +58,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [.NET Coreで PDFSharpを使う](DotNetCore/PDFSharp.md)
 - [String.Substringの不満](DotNetCore/Substringの不満.md)
 - [internalメソッドをテストする](DotNetCore/internalメソッドをテストする.md)
+- [ConsoleAppでconfigurationファイルを扱う](DotNetCore/ConsoleAppでconfigurationファイルを扱う.md)
 
 
 <a id="ef-core"></a>
