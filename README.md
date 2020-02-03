@@ -139,7 +139,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [Pandasで特定のカラムを取り除く](python/Pandasで特定のカラムを取り除く.md)
 - [Pandasでカテゴリ変数をダミー変数に変換する](python/Pandasでカテゴリ変数をダミー変数に変換する.md)
 - [Pandasで指定したカラムの値を変更する](python/Pandasで指定したカラムの値を変更する.md)
-
+- [Flask で Cors の対応](python/Flask で Cors の対応.md)
 
 <a id="js"></a>
 ### JavaScript
