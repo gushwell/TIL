@@ -19,7 +19,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
   - [Visual Studio Code](#vscode)
   - [Microsoft Azure](#azure)
   - [Git/GitHub/GitLab](#git)
-  - [python](#python)
+  - [Python](#python)
   - [JavaScript](#js)
   - [Docker](#docker)
   - [tools](#tools)  
