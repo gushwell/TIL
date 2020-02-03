@@ -3,7 +3,7 @@
 ## パッケージのインストール
 
 ```
-flask_cors
+flask_cors  3.0.8
 ```
 
 ## Python のコード
