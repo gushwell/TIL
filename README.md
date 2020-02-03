@@ -146,7 +146,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 
 - [fetch_APIでJSONを受け取る](JavaScript/fetch_APIでJSONを受け取る.md)
 - [ページが閉じるときのイベントでAjax通信](JavaScript/ページが閉じるときのイベントでAjax通信.md)
-
+- [ローカルにあるテキストファイルを読み込む](JavaScript/ローカルにあるテキストファイルを読み込む.md)
 
 <a id="docker"></a>
 ### Docker
