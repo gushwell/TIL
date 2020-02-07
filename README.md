@@ -69,6 +69,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [テーブル名、カラム名をsnake case に変更する](EntityFrameworkCore/PostgreSQLでsnakecase.md)
 - [PostgreSQL のインストール](EntityFrameworkCore/PostgreSQLインストール.md)
 - [複数のDBがある場合のMigration](EntityFrameworkCore/複数のDBがある場合のMigration.md)
+- [Entityのプロパティにenumを定義する](EntityFrameworkCore/Entityのプロパティにenumを定義する.md)
 
 
 <a id="iis"></a>
