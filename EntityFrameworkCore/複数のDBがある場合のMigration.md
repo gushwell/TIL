@@ -14,8 +14,8 @@ DBの削除は、
 dotnet ef database drop --context myDbContext
 ```
 
-マイグレーションをやり直すには、DB削除後
+マイグレーションをやり直すには、(DB削除後に実行)
 
 ``` 
-dotnet ef database remove --context myDbContext
+dotnet ef migrations remove --context myDbContext
 ```
