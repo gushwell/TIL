@@ -86,6 +86,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 ### SQL Server
 
 - [SQL Serverの認証モードを変更するには](SQLServer/認証モードを変更する.md)
+- [データベースのisolation_levelを確認する](SQLServer/isolation_levelを確認する.md)
 
 
 <a id="vs"></a>
