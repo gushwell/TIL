@@ -177,4 +177,5 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [OpenJDK 11.0.2 をインストールする場合の手順](other/OpenJDK11のインストール.md)
 - [WindowsサーバーにChromeをインストールする方法](other/WindowsServerにChromeをインストール.md)
 - [hostsファイルの変更が反映されない場合の対処](other/hostsファイルの変更が反映されない場合の対処.md)
+- [Chromeのサービスワーカーを削除する](other/Chromeのサービスワーカーを削除する.md)
 
