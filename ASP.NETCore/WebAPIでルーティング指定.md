@@ -12,7 +12,7 @@
 そのような場合には、以下のようにActionメソッドにRoute属性を指定すればよい。
 
 ```cs
-  [HttpPost("[action]")]
+  [Route("[action]")]
   public async Task<ActionResult<Person>> IdentifyAsync(IFormFile postedFile ) {
 ```
 
