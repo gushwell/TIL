@@ -71,6 +71,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [複数のDBがある場合のMigration](EntityFrameworkCore/複数のDBがある場合のMigration.md)
 - [Entityのプロパティにenumを定義する](EntityFrameworkCore/Entityのプロパティにenumを定義する.md)
 - [EF_Core_toolsを更新する](EntityFrameworkCore/EF_Core_toolsを更新する.md)
+- [クラスライブラリではマイグレーションができない](EntityFrameworkCore/クラスライブラリではマイグレーションができない.md)
 
 
 <a id="iis"></a>
