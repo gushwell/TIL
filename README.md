@@ -179,4 +179,5 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [WindowsサーバーにChromeをインストールする方法](other/WindowsServerにChromeをインストール.md)
 - [hostsファイルの変更が反映されない場合の対処](other/hostsファイルの変更が反映されない場合の対処.md)
 - [Chromeのサービスワーカーを削除する](other/Chromeのサービスワーカーを削除する.md)
+- [PostgreSQLでpostgresのパスワードをリセットする](other/PostgreSQLでpostgresのパスワードをリセットする.md)
 
