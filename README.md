@@ -43,6 +43,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [debug時に修正したページ(cshtml)を反映させる](ASP.NETCore/debug時に修正ページを反映させる.md)
 - [Startページを変更する](ASP.NETCore/Startページを変更する.md)
 - [appsettingsに機密情報を書かずに環境変数から取得する](ASP.NETCore/appsettingsに機密情報を書かずに環境変数から取得する.md)
+- [WebAPIでグローバルフィルターを設定する](ASP.NETCore/WebAPIでグローバルフィルターを設定する.md)
 
 <a id="asp-net-mvc"></a>
 ### ASP.NET MVC
