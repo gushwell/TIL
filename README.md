@@ -38,7 +38,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [PostmanでCould_not_get_any_response.md](ASP.NETCore/PostmanでCould_not_get_any_response.md)
 - [Swaggerが使えない](ASP.NETCore/Swaggerが使えない.md)
 - [URLを小文字にするには](ASP.NETCore/URLを小文字にする.md)
-- [クロスオリジン要求 (CORS) を有効にする](ASP.NETCore/クロスオリジン要求(CORS)を有効にする.md)
+- [クロスオリジン要求 (CORS) を有効にする](ASP.NETCore/クロスオリジン要求CORSを有効にする.md)
 - [Web APIでルーティング指定](ASP.NETCore/WebAPIでルーティング指定.md)
 - [debug時に修正したページ(cshtml)を反映させる](ASP.NETCore/debug時に修正ページを反映させる.md)
 - [Startページを変更する](ASP.NETCore/Startページを変更する.md)
