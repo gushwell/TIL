@@ -164,6 +164,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 
 - [Windows10のOpenSSH で接続する](tools/Windows10のOpenSSHを使う.md)
 - [Postmanに関する情報](tools/postman.md)
+- [pandocでdocxからmarkdwonファイルを作成する](tools/pandocでdocxからmarkdwonファイルを作成する.md)
 
 
 <a id="gmopayment"></a>
