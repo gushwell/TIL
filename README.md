@@ -60,6 +60,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [String.Substringの不満](DotNetCore/Substringの不満.md)
 - [internalメソッドをテストする](DotNetCore/internalメソッドをテストする.md)
 - [ConsoleAppでconfigurationファイルを扱う](DotNetCore/ConsoleAppでconfigurationファイルを扱う.md)
+- [EF Core toolを最新のアップデートする.md](DotNetCore/ef_core_toolを最新のアップデートする.md)
 
 
 <a id="ef-core"></a>
