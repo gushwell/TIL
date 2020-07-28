@@ -121,6 +121,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [Azure/HttpトリガーのURLにバージョン番号を付加する方法](Azure/HttpトリガーのURLにバージョン番号を付加する方法.md)
 - [AzureFunctionsでJSONを返す](Azure/AzureFunctionsでJSONを返す.md)
 - [Azure App ServicesにPython(Flask)をデプロイする](Azure/Azure_AppServicesにPython(Flask)をデプロイする.md)
+- [Azure_Key_Vaultで削除されたシークレット情報を復旧させる](Azure/Azure_Key_Vaultで削除されたシークレット情報を復旧させる.md)
 
 
 <a id="git"></a>
