@@ -186,4 +186,5 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [hostsファイルの変更が反映されない場合の対処](other/hostsファイルの変更が反映されない場合の対処.md)
 - [Chromeのサービスワーカーを削除する](other/Chromeのサービスワーカーを削除する.md)
 - [PostgreSQLでpostgresのパスワードをリセットする](other/PostgreSQLでpostgresのパスワードをリセットする.md)
+- [PostgreSQLで各テーブルのサイズ(概算)を知る](other/PostgreSQLで各テーブルのサイズ(概算)を知る.md)
 
