@@ -11,7 +11,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
  
   - [ASP.NET Core](#asp-net-core)
   - [ASP.NET MVC](#asp-net-mvc)
-  - [.Net Core / C#](#dotnet-core)
+  - [.NET Core / C#](#dotnet-core)
   - [Entity Framework Core](#ef-core)
   - [SQL Server](#sqlserver)
   - [PostgreSQL](#postgresql)
