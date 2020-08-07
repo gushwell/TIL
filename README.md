@@ -11,7 +11,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
  
   - [ASP.NET Core](#asp-net-core)
   - [ASP.NET MVC](#asp-net-mvc)
-  - [.Net Core](#dotnet-core)
+  - [.Net Core / C#](#dotnet-core)
   - [Entity Framework Core](#ef-core)
   - [SQL Server](#sqlserver)
   - [PostgreSQL](#postgresql)
@@ -57,10 +57,12 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [シークレット情報をweb.configから切り離す](ASP.NETMVC/ASP.NET_MVCでシークレット情報をweb.configから切り離す.md)
 
 <a id="dotnet-core"></a>
-### .NET Core
+
+### .NET Core / C#
 
 - [.NET Coreで PDFSharpを使う](DotNetCore/PDFSharp.md)
 - [String.Substringの不満](DotNetCore/Substringの不満.md)
+- [DotNetCore/文字列をN文字ずつに分割する](DotNetCore/文字列をN文字ずつに分割する.md)
 - [internalメソッドをテストする](DotNetCore/internalメソッドをテストする.md)
 - [ConsoleAppでconfigurationファイルを扱う](DotNetCore/ConsoleAppでconfigurationファイルを扱う.md)
 - [EF Core toolを最新のアップデートする.md](DotNetCore/ef_core_toolを最新のアップデートする.md)
