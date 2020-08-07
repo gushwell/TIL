@@ -65,7 +65,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [文字列をN文字ずつに分割する](DotNetCore/文字列をN文字ずつに分割する.md)
 - [internalメソッドをテストする](DotNetCore/internalメソッドをテストする.md)
 - [ConsoleAppでconfigurationファイルを扱う](DotNetCore/ConsoleAppでconfigurationファイルを扱う.md)
-- [EF Core toolを最新のアップデートする.md](DotNetCore/ef_core_toolを最新のアップデートする.md)
+- [EF Core toolを最新にアップデートする.md](DotNetCore/ef_core_toolを最新のアップデートする.md)
 
 
 <a id="ef-core"></a>
