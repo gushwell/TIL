@@ -60,13 +60,14 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 
 ### .NET Core / C#
 
-- [.NET Coreで PDFSharpを使う](DotNetCore/PDFSharp.md)
 - [String.Substringの不満](DotNetCore/Substringの不満.md)
 - [文字列をN文字ずつに分割する](DotNetCore/文字列をN文字ずつに分割する.md)
 - [internalメソッドをテストする](DotNetCore/internalメソッドをテストする.md)
 - [ConsoleAppでconfigurationファイルを扱う](DotNetCore/ConsoleAppでconfigurationファイルを扱う.md)
-- [EF Core toolを最新にアップデートする.md](DotNetCore/ef_core_toolを最新のアップデートする.md)
+- [複数の書式指定して日付文字列をParseする](DotNetCore/複数の書式指定して日付文字列をParseする.md)
 
+- [EF Core toolを最新にアップデートする](DotNetCore/ef_core_toolを最新のアップデートする.md)
+- [.NET Coreで PDFSharpを使う](DotNetCore/PDFSharp.md)
 
 <a id="ef-core"></a>
 ### Entity Framework Core
