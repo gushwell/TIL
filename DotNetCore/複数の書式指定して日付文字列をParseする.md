@@ -6,7 +6,7 @@ DateTime.TryParseExactメソッドを使うと簡単にParseできる。
 using System;
 using System.Globalization;
 
-namespace ConsoleApp8 {
+namespace ConsoleApp {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine(ToDate("20200123"));
