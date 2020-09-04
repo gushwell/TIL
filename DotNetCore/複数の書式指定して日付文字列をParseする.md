@@ -1,4 +1,4 @@
-# 複数の書式指定して日付文字列をParseする
+# 複数の書式を指定して日付文字列をParseする
 
 DateTime.TryParseExactメソッドを使うと簡単にParseできる。
 
