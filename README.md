@@ -64,7 +64,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [文字列をN文字ずつに分割する](DotNetCore/文字列をN文字ずつに分割する.md)
 - [internalメソッドをテストする](DotNetCore/internalメソッドをテストする.md)
 - [ConsoleAppでconfigurationファイルを扱う](DotNetCore/ConsoleAppでconfigurationファイルを扱う.md)
-- [複数の書式指定して日付文字列をParseする](DotNetCore/複数の書式指定して日付文字列をParseする.md)
+- [複数の書式を指定して日付文字列をParseする](DotNetCore/複数の書式指定して日付文字列をParseする.md)
 
 - [EF Core toolを最新にアップデートする](DotNetCore/ef_core_toolを最新のアップデートする.md)
 - [.NET Coreで PDFSharpを使う](DotNetCore/PDFSharp.md)
