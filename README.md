@@ -72,6 +72,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 <a id="ef-core"></a>
 ### Entity Framework Core
 
+- [テーブルのカラムにマッピングされないプロパティを定義する](EntityFrameworkCore/テーブルのカラムにマッピングされないプロパティを定義する.md)
 - [InMemoryDatabaseは、Keyを自動インクリメントしない](EntityFrameworkCore/InMemoryDatabaseは、Keyを自動インクリメントしない.md)
 - [テーブル名、カラム名をsnake case に変更する](EntityFrameworkCore/PostgreSQLでsnakecase.md)
 - [複数のDBがある場合のMigration](EntityFrameworkCore/複数のDBがある場合のMigration.md)
