@@ -75,6 +75,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [テーブルのカラムにマッピングされないプロパティを定義する](EntityFrameworkCore/テーブルのカラムにマッピングされないプロパティを定義する.md)
 - [InMemoryDatabaseは、Keyを自動インクリメントしない](EntityFrameworkCore/InMemoryDatabaseは、Keyを自動インクリメントしない.md)
 - [テーブル名、カラム名をsnake case に変更する](EntityFrameworkCore/PostgreSQLでsnakecase.md)
+- [テーブル名を取得する](EntityFrameworkCore/テーブル名を取得する.md)
 - [複数のDBがある場合のMigration](EntityFrameworkCore/複数のDBがある場合のMigration.md)
 - [Entityのプロパティにenumを定義する](EntityFrameworkCore/Entityのプロパティにenumを定義する.md)
 - [EF_Core_toolsを更新する](EntityFrameworkCore/EF_Core_toolsを更新する.md)
