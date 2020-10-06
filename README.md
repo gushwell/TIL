@@ -66,6 +66,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [複数の書式を指定して日付文字列をParseする](DotNetCore/複数の書式指定して日付文字列をParseする.md)
 - [EF Core toolを最新にアップデートする](DotNetCore/ef_core_toolを最新のアップデートする.md)
 - [.NET Coreで PDFSharpを使う](DotNetCore/PDFSharp.md)
+- [己完結型アプリを生成](DotNetCore/自己完結型アプリを生成.md)
 
 <a id="ef-core"></a>
 ### Entity Framework Core
