@@ -96,6 +96,8 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [PostgreSQL のインストール](EntityFrameworkCore/PostgreSQLインストール.md)
 - [PostgreSQLでpostgresのパスワードをリセットする](other/PostgreSQLでpostgresのパスワードをリセットする.md)
 - [PostgreSQLで各テーブルのサイズ(概算)を知る](other/PostgreSQLで各テーブルのサイズ(概算)を知る.md)
+- [PostgreSQLの実行計画を確認する](PostgreSql/explain.md)
+
 
 <a id="vs"></a>
 ### Visual Studio
