@@ -67,6 +67,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [EF Core toolを最新にアップデートする](DotNetCore/ef_core_toolを最新のアップデートする.md)
 - [.NET Coreで PDFSharpを使う](DotNetCore/PDFSharp.md)
 - [己完結型アプリを生成](DotNetCore/自己完結型アプリを生成.md)
+- [既定のホスト構成の環境変数](DotNetCore/既定のホスト構成の環境変数.md)
 
 <a id="ef-core"></a>
 ### Entity Framework Core
