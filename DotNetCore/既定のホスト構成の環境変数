@@ -1,0 +1,12 @@
+# .NET Core の既定のホスト構成の環境変数
+
+
+ASP.NET Coreでは、`ASPNETCORE_ENVIRONMENT`が使われるが、Console App などでは、`DOTNET_ENVIRONMENT` が使われる。
+
+この環境変数に、Development, Productionなどの値を設定する。
+
+これで、appsettings.Development.json, appsettings.production.jsonなどが読み込まれる。
+
+なお、環境変数に値が設定されていない場合は、Production が設定されたものとみなされる。
+
+
