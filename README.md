@@ -129,7 +129,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [Azure Functions の API バージョニング](Azure/Azure_FunctionsのAPIバージョニング.md)
 - [Azure/HttpトリガーのURLにバージョン番号を付加する方法](Azure/HttpトリガーのURLにバージョン番号を付加する方法.md)
 - [AzureFunctionsでJSONを返す](Azure/AzureFunctionsでJSONを返す.md)
-- [Azure App ServicesにPython(Flask)をデプロイする](Azure/Azure_AppServicesにPython(Flask)をデプロイする.md)
+- [Azure App ServicesにPython(Flask)をデプロイする](Azure/Azure_AppServicesにPython_Flaskをデプロイする.md)
 - [Azure_Key_Vaultで削除されたシークレット情報を復旧させる](Azure/Azure_Key_Vaultで削除されたシークレット情報を復旧させる.md)
 - [AzCopyで必要なSAS](Azure/AzCopyで必要なSAS.md)
 
