@@ -64,6 +64,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [internalメソッドをテストする](DotNetCore/internalメソッドをテストする.md)
 - [ConsoleAppでconfigurationファイルを扱う](DotNetCore/ConsoleAppでconfigurationファイルを扱う.md)
 - [複数の書式を指定して日付文字列をParseする](DotNetCore/複数の書式指定して日付文字列をParseする.md)
+- [C#のコード分析違反をnamespace全体で抑制する](DotNetCore/C#のコード分析違反をnamespace全体で抑制する.md)
 - [カルチャを指定しTryParseで数値に変換したい](DotNetCore/カルチャを指定しTryParseしたい.md)
 - [EF Core toolを最新にアップデートする](DotNetCore/ef_core_toolを最新のアップデートする.md)
 - [.NET Coreで PDFSharpを使う](DotNetCore/PDFSharp.md)
