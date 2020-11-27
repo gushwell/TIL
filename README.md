@@ -98,7 +98,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 
 - [PostgreSQL のインストール](PostgreSql/PostgreSQLインストール.md)
 - [PostgreSQLでpostgresのパスワードをリセットする](PostgreSql/PostgreSQLでpostgresのパスワードをリセットする.md)
-- [PostgreSQLで各テーブルのサイズ(概算)を知る](PostgreSql/PostgreSQLで各テーブルのサイズ(概算)を知る.md)
+- [PostgreSQLで各テーブルのサイズ(概算)を知る](PostgreSql/PostgreSQLで各テーブルのサイズを知る.md)
 - [PostgreSQLの実行計画を確認する](PostgreSql/explain.md)
 
 
