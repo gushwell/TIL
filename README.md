@@ -84,7 +84,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [EF_Core_toolsを更新する](EntityFrameworkCore/EF_Core_toolsを更新する.md)
 - [クラスライブラリではマイグレーションができない](EntityFrameworkCore/クラスライブラリではマイグレーションができない.md)
 - [PostgrSQLで RowVersion と同等のものを使う](EntityFrameworkCore/PostgreSQLでConcurrencyToken.md)
-- [DbContextを多段継承したい](TIL/EntityFrameworkCore/DbContextを多段継承したい.md)
+- [DbContextを多段継承したい](EntityFrameworkCore/DbContextを多段継承したい.md)
 
 
 <a id="sqlserver"></a>
