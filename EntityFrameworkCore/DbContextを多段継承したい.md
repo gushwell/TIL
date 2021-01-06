@@ -1,5 +1,7 @@
 # DbContextを多段継承する時のTips
 
+<br>
+
 ## 継承元
 
 protectedなコンストラクタを定義する。
