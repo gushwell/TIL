@@ -85,7 +85,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [クラスライブラリではマイグレーションができない](EntityFrameworkCore/クラスライブラリではマイグレーションができない.md)
 - [PostgrSQLで RowVersion と同等のものを使う](EntityFrameworkCore/PostgreSQLでConcurrencyToken.md)
 - [DbContextを多段継承したい](EntityFrameworkCore/DbContextを多段継承したい.md)
-
+- [ルール外の外部キープロパティ名をつける](EntityFrameworkCore/ルール外の外部キープロパティ名をつける.md)
 
 <a id="sqlserver"></a>
 ### SQL Server
