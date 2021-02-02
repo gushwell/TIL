@@ -79,13 +79,14 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [テーブル名、カラム名をsnake case に変更する](EntityFrameworkCore/PostgreSQLでsnakecase.md)
 - [テーブル名を取得する](EntityFrameworkCore/テーブル名を取得する.md)
 - [プロパティに対応するカラム名を取得する](EntityFrameworkCore/プロパティに対応するカラム名を取得する.md)
-- [複数のDBがある場合のMigration](EntityFrameworkCore/複数のDBがある場合のMigration.md)
 - [Entityのプロパティにenumを定義する](EntityFrameworkCore/Entityのプロパティにenumを定義する.md)
 - [EF_Core_toolsを更新する](EntityFrameworkCore/EF_Core_toolsを更新する.md)
-- [クラスライブラリではマイグレーションができない](EntityFrameworkCore/クラスライブラリではマイグレーションができない.md)
 - [PostgrSQLで RowVersion と同等のものを使う](EntityFrameworkCore/PostgreSQLでConcurrencyToken.md)
 - [DbContextを多段継承したい](EntityFrameworkCore/DbContextを多段継承したい.md)
 - [ルール外の外部キープロパティ名をつける](EntityFrameworkCore/ルール外の外部キープロパティ名をつける.md)
+- [複数のDBがある場合のMigration](EntityFrameworkCore/複数のDBがある場合のMigration.md)
+- [クラスライブラリではマイグレーションができない](EntityFrameworkCore/クラスライブラリではマイグレーションができない.md)
+- [マイグレーションをUndoしたい](EntityFrameworkCore/マイグレーションをUndoしたい.md)
 
 <a id="sqlserver"></a>
 ### SQL Server
