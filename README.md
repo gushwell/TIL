@@ -24,7 +24,6 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
   - [JavaScript](#js)
   - [Docker](#docker)
   - [tools](#tools)  
-  - [GmoPayment](#gmopayment)
   - [other](#other)
  
   
@@ -190,11 +189,6 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [Postmanに関する情報](tools/postman.md)
 - [pandocでdocxからmarkdwonファイルを作成する](tools/pandocでdocxからmarkdwonファイルを作成する.md)
 
-
-<a id="gmopayment"></a>
-### GmoPayment
-
-- [GMOペイメントのテスト環境の APIのURL](GmoPayment/テスト環境.md)
 
 
 <a id="other"></a>
