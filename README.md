@@ -87,7 +87,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [マイグレーションをUndoしたい](EntityFrameworkCore/マイグレーションをUndoしたい.md)
 - [PostgrSQLで RowVersion と同等のものを使う](EntityFrameworkCore/PostgreSQLでConcurrencyToken.md)
 - [PostgreSQLでsnakecaseのカラム、テーブル名を扱う](EntityFrameworkCore/PostgreSQLでsnakecase.md)
-- [PostgreSQLでコードファースト](EntityFrameworkCore/PostgreSQLでコードファースト.md)
+- [PostgreSQLでデータベースファースト](EntityFrameworkCore/PostgreSQLでデータベースファースト.md)
 
 <a id="sqlserver"></a>
 ### SQL Server
