@@ -40,10 +40,11 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [URLを小文字にするには](ASP.NETCore/URLを小文字にする.md)
 - [クロスオリジン要求 (CORS) を有効にする](ASP.NETCore/クロスオリジン要求を有効にする.md)
 - [Web APIでルーティング指定](ASP.NETCore/WebAPIでルーティング指定.md)
+- [Web APIでhtmlを返す](ASP.NETCore/WebAPIでhtmlを返す.md)
+- [Web APIでグローバルフィルターを設定する](ASP.NETCore/WebAPIでグローバルフィルターを設定する.md)
 - [debug時に修正したページ(cshtml)を反映させる](ASP.NETCore/debug時に修正ページを反映させる.md)
 - [Startページを変更する](ASP.NETCore/Startページを変更する.md)
 - [appsettingsに機密情報を書かずに環境変数から取得する](ASP.NETCore/appsettingsに機密情報を書かずに環境変数から取得する.md)
-- [WebAPIでグローバルフィルターを設定する](ASP.NETCore/WebAPIでグローバルフィルターを設定する.md)
 - [program.csでappsettings.jsonの値を取得する](ASP.NETCore/program.csでappsettings.jsonの値を取得する.md)
 - [VisualStudioでシークレットマネージャを使う](/ASP.NETCore/VisualStudioでシークレットマネージャを使う.md)
 
