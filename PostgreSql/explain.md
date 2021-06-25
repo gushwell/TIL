@@ -1,6 +1,6 @@
 # PostGreSQLで実行計画を確認する
 
-SQLの前に、EXPLAIN をつければ良い。
+SQLの前に、EXPLAIN ANALYZE をつければ良い。
 
 ```sql
 EXPLAIN ANALYZE SELECT part_id, update_time, creation_time, part_name, brand_id
