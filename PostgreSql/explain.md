@@ -1,4 +1,4 @@
-# PostGreSQLで実行計画を確認する
+# PostgreSQLで実行計画を確認する
 
 SQLの前に、EXPLAIN ANALYZE をつければ良い。
 
