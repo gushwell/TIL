@@ -158,6 +158,8 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [Gitでユーザ名を指定してcloneする](git/Gitでユーザ名を指定してcloneする.md)
 - [GitLabのCIでdotnet3.1のプロジェクトをビルドする](git/GitLabのCIでdotnet3.1を使う.md)
 - [Gitで改行コードが自動変換される](git/改行コードが自動変換される.md)
+- [リモートリポジトリから不要なフォルダを削除する](リモートリポジトリから不要なフォルダを削除する.md)
+ 
 
 <a id="python"></a>
 ### Python
