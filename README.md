@@ -70,6 +70,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [.NET Coreで PDFSharpを使う](DotNetCore/PDFSharp.md)
 - [自己完結型アプリを生成](DotNetCore/自己完結型アプリを生成.md)
 - [既定のホスト構成の環境変数](DotNetCore/既定のホスト構成の環境変数.md)
+- [1970-01-01T00:00:00Zからの経過時間を秒で求める.md](DotNetCore/1970-01-01T00:00:00Z からの経過時間を秒で求める.md)
 
 <a id="ef-core"></a>
 ### Entity Framework Core
