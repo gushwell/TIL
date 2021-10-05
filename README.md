@@ -117,11 +117,12 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 
 - [Visual Studioの .editorconfig ファイルで書式を統一](VisualStudio/editorconfigファイルで書式を統一.md) 
 - [ファイルまたはアセンブリ 'System.Memory'またはその依存関係の 1 つが読み込めませんでした のエラー](VisualStudio/System.Memoryまたはその依存関係の1つが読み込めませんでした.md)
-- [NuGetパッケージをローカルネットワークに公開する](VisualStudio/NuGetパッケージをローカルネットワークに公開する.md)
-- [NugetパッケージのパッケージソースをComputerLevelで登録する](VisualStudio/NugetパッケージのパッケージソースをComputerLevelで登録する.md)
 - [JsonデータからC#のクラスを作成する](VisualStudio/Jsonデータからクラスを作成する.md)
 - [xUnitとMoqを使う準備](VisualStudio/xUnitとMoqを使う準備.md)
 - [Visual Studioでの発行で特定のファイルを除外する](VisualStudio/発行時に特定のファイルを除外する.md)
+- [NuGetパッケージをローカルネットワークに公開する](VisualStudio/NuGetパッケージをローカルネットワークに公開する.md)
+- [NugetパッケージのパッケージソースをComputerLevelで登録する](VisualStudio/NugetパッケージのパッケージソースをComputerLevelで登録する.md)
+- [Nuget.exe自身を最新版に更新したい](VisualStudio/Nuget.exe自身を最新版に更新したい.md)
 
 <a id="vscode"></a>
 ### Visual Studio Code
