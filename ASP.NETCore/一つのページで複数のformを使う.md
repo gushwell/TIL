@@ -39,6 +39,6 @@ public async Task<IActionResult> OnPostEditAsync()
 <form method="post" >
    ...
    <button type="submit" asp-page-handler="view">View</button>
-   <button type="submit"  asp-page-handler="edit">Edit</button>
+   <button type="submit" asp-page-handler="edit">Edit</button>
 </form>  
 ```
