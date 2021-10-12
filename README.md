@@ -39,15 +39,16 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [Swaggerが使えない](ASP.NETCore/Swaggerが使えない.md)
 - [URLを小文字にするには](ASP.NETCore/URLを小文字にする.md)
 - [クロスオリジン要求 (CORS) を有効にする](ASP.NETCore/クロスオリジン要求を有効にする.md)
-- [Web APIでルーティング指定](ASP.NETCore/WebAPIでルーティング指定.md)
-- [Web APIでhtmlを返す](ASP.NETCore/WebAPIでhtmlを返す.md)
-- [Web APIでグローバルフィルターを設定する](ASP.NETCore/WebAPIでグローバルフィルターを設定する.md)
 - [debug時に修正したページ(cshtml)を反映させる](ASP.NETCore/debug時に修正ページを反映させる.md)
 - [Startページを変更する](ASP.NETCore/Startページを変更する.md)
 - [appsettingsに機密情報を書かずに環境変数から取得する](ASP.NETCore/appsettingsに機密情報を書かずに環境変数から取得する.md)
 - [program.csでappsettings.jsonの値を取得する](ASP.NETCore/program.csでappsettings.jsonの値を取得する.md)
 - [VisualStudioでシークレットマネージャを使う](/ASP.NETCore/VisualStudioでシークレットマネージャを使う.md)
 - [環境(ASPNETCORE_ENVIRONMENT)がDevelopmentかどうかを判断する](ASP.NETCore/環境(ASPNETCORE_ENVIRONMENT)がDevelopmentかどうかを判断する.md)
+- [Razor Pages: 一つのページで複数のformを使う](ASP.NETCore/一つのページで複数のformを使う.md)
+- [Web APIでルーティング指定](ASP.NETCore/WebAPIでルーティング指定.md)
+- [Web APIでhtmlを返す](ASP.NETCore/WebAPIでhtmlを返す.md)
+- [Web APIでグローバルフィルターを設定する](ASP.NETCore/WebAPIでグローバルフィルターを設定する.md)
 
 <a id="asp-net-mvc"></a>
 ### ASP.NET MVC
