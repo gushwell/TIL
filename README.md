@@ -47,6 +47,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [appsettingsに機密情報を書かずに環境変数から取得する](ASP.NETCore/appsettingsに機密情報を書かずに環境変数から取得する.md)
 - [program.csでappsettings.jsonの値を取得する](ASP.NETCore/program.csでappsettings.jsonの値を取得する.md)
 - [VisualStudioでシークレットマネージャを使う](/ASP.NETCore/VisualStudioでシークレットマネージャを使う.md)
+- [環境(ASPNETCORE_ENVIRONMENT)がDevelopmentかどうかを判断する](ASP.NETCore/環境(ASPNETCORE_ENVIRONMENT)がDevelopmentかどうかを判断する.md)
 
 <a id="asp-net-mvc"></a>
 ### ASP.NET MVC
