@@ -93,6 +93,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [PostgrSQLで RowVersion と同等のものを使う](EntityFrameworkCore/PostgreSQLでConcurrencyToken.md)
 - [PostgreSQLでsnakecaseのカラム、テーブル名を扱う](EntityFrameworkCore/PostgreSQLでsnakecase.md)
 - [PostgreSQLでデータベースファースト](EntityFrameworkCore/PostgreSQLでデータベースファースト.md)
+- [AsSplitQueryでSQLクエリを分割する](EntityFrameworkCore/AsSplitQueryで分割クエリ.md)
 
 <a id="sqlserver"></a>
 ### SQL Server
