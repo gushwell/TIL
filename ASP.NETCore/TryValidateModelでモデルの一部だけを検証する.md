@@ -30,8 +30,7 @@ class ViewModel_B {
 
 ```cs
    public IActionResult OnPost([FromForm] string action) {
-       if (!ModelState.IsValid) 
-       {
+       if (!ModelState.IsValid) {
            return Page();
        }
        ...
@@ -45,8 +44,7 @@ class ViewModel_B {
 ```cs
    public IActionResult OnPost([FromForm] string action) {
        this.ModelState.Clear();
-       if (!this.TryValidateModel(this.Data.ViewModel_B))
-       {
+       if (!this.TryValidateModel(this.Data.ViewModel_B)) {
            return Page();
        }
        ...
