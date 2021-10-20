@@ -39,7 +39,7 @@ class ViewModel_B {
 
 しかし、場合によっては、ViewModel_B だけを検証したい場合もあります。そんな時に、TryValidateModel メソッドを使います。
 
-こんなふうなコードになります。Dataは、ViewModel型のオブジェクトと仮定します。
+RazorPagesの場合はこんなふうなコードになります。Dataは、ViewModel型のオブジェクトと仮定します。
 
 ```cs
    public IActionResult OnPost([FromForm] string action) {
