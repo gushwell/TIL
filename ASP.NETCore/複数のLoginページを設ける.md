@@ -49,3 +49,5 @@ Authorize属性は、Roleだけを指定する。
 [Authorize(Roles = "User"]
 ```
 
+※　フレームワークに則ったやり方を知りたい。
+
