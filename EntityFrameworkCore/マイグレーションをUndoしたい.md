@@ -2,6 +2,8 @@
 
 ## database updateしたのを戻したい
 
+<previos_migramtion_name> の状態まで戻す。
+
 ```
 dotnet ef database update <previos_migramtion_name>
 ```
