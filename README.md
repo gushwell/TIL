@@ -89,7 +89,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [ルール外の外部キープロパティ名をつける](EntityFrameworkCore/ルール外の外部キープロパティ名をつける.md)
 - [EF_Core_toolsを更新する](EntityFrameworkCore/EF_Core_toolsを更新する.md)
 - [複数のDBがある場合のMigration](EntityFrameworkCore/複数のDBがある場合のMigration.md)
-- [クラスライブラリではマイグレーションができない](EntityFrameworkCore/クラスライブラリではマイグレーションができない.md)
+- [クラスライブラリでマイグレーションしたい](EntityFrameworkCore/クラスライブラリでマイグレーション.md)
 - [マイグレーションをUndoしたい](EntityFrameworkCore/マイグレーションをUndoしたい.md)
 - [マイグレーションをリセットしたい](EntityFrameworkCore/マイグレーションをリセットする.md)
 - [PostgrSQLで RowVersion と同等のものを使う](EntityFrameworkCore/PostgreSQLでConcurrencyToken.md)
