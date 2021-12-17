@@ -147,6 +147,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [Azure App ServicesにPython(Flask)をデプロイする](Azure/Azure_AppServicesにPython_Flaskをデプロイする.md)
 - [Azure_Key_Vaultで削除されたシークレット情報を復旧させる](Azure/Azure_Key_Vaultで削除されたシークレット情報を復旧させる.md)
 - [AzCopyで必要なSAS](Azure/AzCopyで必要なSAS.md)
+- [AppServiceにタイムゾーンを設定する](Azure/AppServiceにタイムゾーンを設定する.md)
 
 <a id="iis"></a>
 ### IIS
