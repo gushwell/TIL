@@ -13,3 +13,9 @@ Update the tools for the latest features and bug fixe the latest features and bu
 ```
 dotnet tool update --global dotnet-ef
 ```
+
+バージョンを指定しないとうまくいかない場合もある
+
+```
+dotnet tool update --global dotnet-ef --version 6.0.1
+```
