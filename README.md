@@ -11,7 +11,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
  
   - [ASP.NET Core](#asp-net-core)
   - [ASP.NET MVC](#asp-net-mvc)
-  - [.NET Core / C#](#dotnet-core)
+  - [.NET / C#](#dotnet-core)
   - [Entity Framework Core](#ef-core)
   - [SQL Server](#sqlserver)
   - [PostgreSQL](#postgresql)
@@ -61,20 +61,21 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [シークレット情報をweb.configから切り離す](ASP.NETMVC/ASP.NET_MVCでシークレット情報をweb.configから切り離す.md)
 
 <a id="dotnet-core"></a>
-### .NET Core / C#
+### .NET / C#
 
 - [String.Substringの不満](DotNetCore/Substringの不満.md)
 - [文字列をN文字ずつに分割する](DotNetCore/文字列をN文字ずつに分割する.md)
 - [internalメソッドをテストする](DotNetCore/internalメソッドをテストする.md)
 - [ConsoleAppでconfigurationファイルを扱う](DotNetCore/ConsoleAppでconfigurationファイルを扱う.md)
 - [複数の書式を指定して日付文字列をParseする](DotNetCore/複数の書式指定して日付文字列をParseする.md)
-- [C#のコード分析違反をnamespace全体で抑制する](DotNetCore/コード分析違反をnamespace全体で抑制する.md)
 - [カルチャを指定しTryParseで数値に変換したい](DotNetCore/カルチャを指定しTryParseしたい.md)
+- [配列をシャッフルするコード](DotNetCore/配列をシャッフルするコード.md)
+- [1970年01月01日からの経過時間を秒で求める](DotNetCore/1970年01月01日からの経過時間を秒で求める.md)
+- [C#のコード分析違反をnamespace全体で抑制する](DotNetCore/コード分析違反をnamespace全体で抑制する.md)
 - [EF Core toolを最新にアップデートする](DotNetCore/ef_core_toolを最新のアップデートする.md)
 - [.NET Coreで PDFSharpを使う](DotNetCore/PDFSharp.md)
 - [自己完結型アプリを生成](DotNetCore/自己完結型アプリを生成.md)
 - [既定のホスト構成の環境変数](DotNetCore/既定のホスト構成の環境変数.md)
-- [1970年01月01日からの経過時間を秒で求める](DotNetCore/1970年01月01日からの経過時間を秒で求める.md)
 
 <a id="ef-core"></a>
 ### Entity Framework Core
