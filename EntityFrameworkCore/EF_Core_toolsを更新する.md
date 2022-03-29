@@ -14,6 +14,13 @@ Update the tools for the latest features and bug fixes.
 dotnet tool update --global dotnet-ef
 ```
 
+バージョンを指定する場合は、以下のように`--version`オプションを使いバージョンを指定する。
+
+```
+dotnet tool update --global dotnet-ef --version 6.0.3
+```
+
+
 成功すれば、以下のメッセージが表示される
 
 ```
