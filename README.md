@@ -165,6 +165,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 <a id="git"></a>
 ### Git / GitHub / GitLab
 
+- [.NET用gitignoreファイルを作成する](/git/DotNET用gitignoreファイルを作成する.md)
 - [Git メモ](git/gitメモ.md)
 - [GitLabの通知をChromeで受け取る方法](git/GitLabの通知をChromeで受け取る方法.md)
 - [TortoiseGitで別のマージツールを使いたい](git/TortoiseGitで別のマージツールを使いたい.md)
