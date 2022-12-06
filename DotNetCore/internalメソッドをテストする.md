@@ -15,4 +15,14 @@ using System.Runtime.CompilerServices;
 
 これでOK.
 
+### もう一つの方法
 
+テストしたいメソッドが定義されているプロジェクトのcsprojファイルに以下の記述を追加する。
+
+```xml
+<ItemGroup>
+  <InternalsVisibleTo Include="Gushwell.Example.Tests" />
+</ItemGroup>
+```	
+
+この方法は、.NET5以降で有効。
