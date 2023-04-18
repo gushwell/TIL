@@ -22,7 +22,7 @@ host myposgre
 ```
 
 
-## OPenSSHがインストールされているかを確認するには、
+## OpenSSHがインストールされているかを確認するには、
 
 コマンドプロンプトで、以下をタイプ
 
@@ -37,3 +37,14 @@ C:¥Windows¥System32¥OpenSSH¥ssh.exe
 ```
 
 git for windows の ssh.exeが見つかった場合は、PATHの順番で、優先順位を変更する。
+
+## sshコマンドで直接ホストを指定して接続する
+
+```
+ssh <username>@<hostname>
+```
+
+パスワードを要求してくるので、パスワード入れれば接続できる。
+
+`<hostname>`は、IPアドレスでも可能。
+	
