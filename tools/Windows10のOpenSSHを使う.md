@@ -1,4 +1,4 @@
-# Windows10のOpenSSH で接続する
+# WindowsのOpenSSH で接続する
 
 Windows10には、標準でSSHクライアントソフトが入っている。それを使う方法。
 
