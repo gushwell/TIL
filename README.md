@@ -212,6 +212,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 ### Tools
 
 - [Windows10のOpenSSH で接続する](tools/Windows10のOpenSSHを使う.md)
+- [scpコマンドでLinuxsサーバーのファイルをダウンロードする](tools/scpコマンドでLinuxsサーバーのファイルをダウンロードする.md)
 - [Postmanに関する情報](tools/postman.md)
 - [pandocでdocxからmarkdwonファイルを作成する](tools/pandocでdocxからmarkdwonファイルを作成する.md)
 
