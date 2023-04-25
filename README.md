@@ -193,6 +193,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [Pandasでカテゴリ変数をダミー変数に変換する](python/Pandasでカテゴリ変数をダミー変数に変換する.md)
 - [Pandasで指定したカラムの値を変更する](python/Pandasで指定したカラムの値を変更する.md)
 - [Flask で Cors の対応](python/FlaskでCorsの対応.md)
+- [pipでインストール済みパッケージ確認する](python/pipでインストール済みパッケージ確認.md)
 
 <a id="js"></a>
 ### JavaScript
