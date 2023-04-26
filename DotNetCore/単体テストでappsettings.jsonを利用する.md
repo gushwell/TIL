@@ -1,4 +1,4 @@
-## 単体テストで、appsettings.jsonを利用する
+## 単体テストで　appsettings.jsonを利用する
 
 ここでは、appsettings.sjonに定義してあるデータベースの接続文字列を取り出し、DbContextのインスタンスを生成する例を示す。
 
