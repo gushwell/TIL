@@ -78,6 +78,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [既定のホスト構成の環境変数](DotNetCore/既定のホスト構成の環境変数.md)
 - [バイナリファイルを構造体に読み込む](DotNetCore/バイナリファイルを構造体に読み込む.md)
 - [列挙値を重複させない設定](DotNetCore/列挙値を重複させない設定.md)
+- [単体テストでappsettings.jsonを利用する](DotNetCore/単体テストでappsettings.jsonを利用する.md)
 
 <a id="ef-core"></a>
 ### Entity Framework Core
