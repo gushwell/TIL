@@ -102,6 +102,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [PostgreSQLでデータベースファースト](EntityFrameworkCore/PostgreSQLでデータベースファースト.md)
 - [AsSplitQueryでSQLクエリを分割する](EntityFrameworkCore/AsSplitQueryで分割クエリ.md)
 - [SQL Server接続時にリトライする](EntityFrameworkCore/EF_CoreでSQL_Server接続時にリトライする.md)
+- [SQLのコマンドタイムアウト値を設定する](EntityFrameworkCore/SQLのコマンドタイムアウト値を設定する.md)
 
 <a id="sqlserver"></a>
 ### SQL Server
