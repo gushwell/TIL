@@ -110,6 +110,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [SQL Serverの認証モードを変更するには](SQLServer/認証モードを変更する.md)
 - [データベースのisolation_levelを確認する](SQLServer/isolation_levelを確認する.md)
 - [コマンドでフルバックアップ](SQLServer/コマンドでフルバックアップ.md)
+- [SQL Server ExpressでAUTO_CLOSEオプションをOFFにする](SQLServer/AUTO_CLOSEオプションをOFFにする.md)
 
 <a id="postgresql"></a>
 ### PostgreSQL
