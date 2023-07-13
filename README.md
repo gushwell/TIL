@@ -138,6 +138,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [NuGetパッケージをローカルネットワークに公開する](VisualStudio/NuGetパッケージをローカルネットワークに公開する.md)
 - [NugetパッケージのパッケージソースをComputerLevelで登録する](VisualStudio/NugetパッケージのパッケージソースをComputerLevelで登録する.md)
 - [Nuget.exe自身を最新版に更新したい](VisualStudio/Nuget.exe自身を最新版に更新したい.md)
+- [NuGetパッケージをCLIで更新する.md](VisualStudio/NuGetパッケージをCLIで更新する.md)
 
 <a id="vscode"></a>
 ### Visual Studio Code
