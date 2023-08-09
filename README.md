@@ -80,6 +80,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [バイナリファイルを構造体に読み込む](DotNetCore/バイナリファイルを構造体に読み込む.md)
 - [列挙値を重複させない設定](DotNetCore/列挙値を重複させない設定.md)
 - [単体テストでappsettings.jsonを利用する](DotNetCore/単体テストでappsettings.jsonを利用する.md)
+- [Program.csでappsettings.jsonの値をクラスにマッピングする](DotNetCore/Program.csでappsettings.jsonの値をクラスにマッピングする.md)
 
 <a id="ef-core"></a>
 ### Entity Framework Core
