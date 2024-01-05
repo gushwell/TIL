@@ -113,6 +113,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [データベースのisolation_levelを確認する](SQLServer/isolation_levelを確認する.md)
 - [コマンドでフルバックアップ](SQLServer/コマンドでフルバックアップ.md)
 - [SQL Server ExpressでAUTO_CLOSEオプションをOFFにする](SQLServer/AUTO_CLOSEオプションをOFFにする.md)
+- [SQLLocalDBに接続できなくなった時の対処](SQLServer/SQLLocalDBに接続できなくなった時の対処.md)
 
 <a id="postgresql"></a>
 ### PostgreSQL
