@@ -114,7 +114,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [コマンドでフルバックアップ](SQLServer/コマンドでフルバックアップ.md)
 - [SQL Server ExpressでAUTO_CLOSEオプションをOFFにする](SQLServer/AUTO_CLOSEオプションをOFFにする.md)
 - [SQLLocalDBに接続できなくなった時の対処](SQLServer/SQLLocalDBに接続できなくなった時の対処.md)
-- [SSMSでEdit_top_xxx_Rowsのxxxを変更する](SQLServer/SSMSでEdit_top_xxx_Roesのxxxを変更する.md)
+- [SSMSでEdit_top_xxx_Rowsのxxxを変更する](SQLServer/SSMSでEdit_top_xxx_Rowsのxxxを変更する.md)
   
 <a id="postgresql"></a>
 ### PostgreSQL
