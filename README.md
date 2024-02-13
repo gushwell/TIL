@@ -105,6 +105,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [PostgrSQLで RowVersion と同等のものを使う](EntityFrameworkCore/PostgreSQLでConcurrencyToken.md)
 - [PostgreSQLでsnakecaseのカラム、テーブル名を扱う](EntityFrameworkCore/PostgreSQLでsnakecase.md)
 - [PostgreSQLでデータベースファースト](EntityFrameworkCore/PostgreSQLでデータベースファースト.md)
+- [明示的に照合順序を指定してクエリを作成する](EntityFrameworkCore/明示的に照合順序を指定してクエリを作成する.md)
 
 <a id="sqlserver"></a>
 ### SQL Server
