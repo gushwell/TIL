@@ -167,6 +167,8 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [AzCopyで必要なSAS](Azure/AzCopyで必要なSAS.md)
 - [AppServiceにタイムゾーンを設定する](Azure/AppServiceにタイムゾーンを設定する.md)
 - [robots933456.txtへのリクエスト](Azure/robots933456.txtへのリクエスト.md)
+- [現在ログインしているユーザ名を取得する]（Azure/現在ログインしているユーザ名を取得する.md）
+ 
 
 <a id="iis"></a>
 ### IIS
