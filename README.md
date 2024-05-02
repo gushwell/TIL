@@ -130,6 +130,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [psqlでSQLファイルを実行する](PostgreSql/psqlでSQLファイルを実行する.md)
 - [テーブルの内容をCSVファイルに出力する](PostgreSql/CSVファイルを出力する.md)
 - [CSVファイルをテーブルにインポートする](PostgreSql/CSVファイルをインポートする.md)
+- [INNER JOINで見つかった行を削除したい](PostgreSql/INNER JOINで見つかった行を削除したい.md)
 
 
 
