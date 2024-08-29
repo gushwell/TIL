@@ -1,8 +1,12 @@
 # TIL: Today I Learned by gushwell
 
-今日学んだことをメモしています。忘れていて再度調べたものなども含んでいます。
+今日学んだことをメモしています。忘れていて再度調べたものなども含んでいます。完全な個人的メモです。
 
-Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.com/gushwell) もよろしく。
+以下でも情報発信しています。
+
+Qiita:  [https://qiita.com/gushwell](https://qiita.com/gushwell)  
+Zenn: [https://zenn.dev/gushwell](https://zenn.dev/gushwell)  
+GitHub: [https://github.com/gushwell](https://github.com/gushwell)  
 
 
 ## Table of Contents
@@ -33,7 +37,8 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 <a id="asp-net-core"></a>
 ### ASP.NET Core
 
-- [ApiVersionAttribute属性](ASP.NETCore/ApiVersionAttribute.md)
+- [ApiVersionAttribute属性（旧情報）](ASP.NETCore/ApiVersionAttribute.md)
+- [Controller形式のAPIでバージョニングを設定する](ASP.NETCore/ApiVersionAttribute2.md)
 - [JWT対応](ASP.NETCore/JWT対応.md)
 - [PostmanでCould_not_get_any_response.md](ASP.NETCore/PostmanでCould_not_get_any_response.md)
 - [Swaggerが使えない](ASP.NETCore/Swaggerが使えない.md)
@@ -102,6 +107,7 @@ Gushwell's Site : [Qiita](https://qiita.com/gushwell) / [GitHub](https://github.
 - [クラスライブラリでマイグレーションしたい](EntityFrameworkCore/クラスライブラリでマイグレーション.md)
 - [マイグレーションをUndoしたい](EntityFrameworkCore/マイグレーションをUndoしたい.md)
 - [マイグレーションをリセットしたい](EntityFrameworkCore/マイグレーションをリセットする.md)
+- [マイグレーションでDB接続先を切り替えたい](EntityFrameworkCore/マイグレーションでDB接続先を切り替えたい.md)
 - [PostgrSQLで RowVersion と同等のものを使う](EntityFrameworkCore/PostgreSQLでConcurrencyToken.md)
 - [PostgreSQLでsnakecaseのカラム、テーブル名を扱う](EntityFrameworkCore/PostgreSQLでsnakecase.md)
 - [PostgreSQLでデータベースファースト](EntityFrameworkCore/PostgreSQLでデータベースファースト.md)
