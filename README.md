@@ -2,6 +2,8 @@
 
 今日学んだことをメモしています。忘れていて再度調べたものなども含んでいます。完全な個人的メモです。
 
+このページ(GitHub Pages): [https://gushwell.github.io/TIL/](https://gushwell.github.io/TIL/)
+
 以下でも情報発信しています。
 
 Qiita:  [https://qiita.com/gushwell](https://qiita.com/gushwell)  
