@@ -227,6 +227,7 @@ GitHub: [https://github.com/gushwell](https://github.com/gushwell)
 - [ページが閉じるときのイベントでAjax通信](JavaScript/ページが閉じるときのイベントでAjax通信.md)
 - [ローカルにあるテキストファイルを読み込む](JavaScript/ローカルにあるテキストファイルを読み込む.md)
 - [bootstrap5でモーダルダイアログを手動で開く](JavaScript/bootstrap5でモーダルダイアログを手動で開く.md)
+- [オブジェクトをclassにキャストする方法](JavaScript/オブジェクトをclassにキャストする方法.md)
 
 <a id="docker"></a>
 ### Docker
