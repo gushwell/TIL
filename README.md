@@ -127,6 +127,7 @@ GitHub: [https://github.com/gushwell](https://github.com/gushwell)
 - [SQLLocalDBを作成し直す方法](SQLServer/SQLLocalDBを作成し直す.md)
 - [SSMSでEdit_top_xxx_Rowsのxxxを変更する](SQLServer/SSMSでEdit_top_xxx_Rowsのxxxを変更する.md)
 - [SSMSで条件に一致した行を編集したい](SQLServer/SSMSで条件に一致した行を編集したい.md)
+- [データベーススナップショットの名前を取得する](SQLServer/データベーススナップショットの名前を取得する.md)
   
 <a id="postgresql"></a>
 ### PostgreSQL
