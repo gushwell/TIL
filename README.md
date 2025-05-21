@@ -204,7 +204,7 @@ GitHub: [https://github.com/gushwell](https://github.com/gushwell)
 - [GitLabのCIでdotnet3.1のプロジェクトをビルドする](git/GitLabのCIでdotnet3.1を使う.md)
 - [Gitで改行コードが自動変換される](git/改行コードが自動変換される.md)
 - [リモートリポジトリから不要なフォルダを削除する](git/リモートリポジトリから不要なフォルダを削除する.md)
- 
+- [特定フォルダをGitHubリポジトリーから削除する](git/特定フォルダをGitHubリポジトリーから削除する.md) 
 
 <a id="python"></a>
 ### Python
